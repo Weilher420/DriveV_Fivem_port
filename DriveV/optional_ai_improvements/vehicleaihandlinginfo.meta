@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CAIHandlingInfoMgr>
+  <AIHandlingInfos>
+    <Item type="CAIHandlingInfo">
+      <Name>SPORTS_CAR</Name>
+      <MinBrakeDistance value="11.000000" />
+      <MaxBrakeDistance value="80.000000" />
+      <MaxSpeedAtBrakeDistance value="36.000000" />
+      <AbsoluteMinSpeed value="1.000000" />
+      <AICurvePoints>
+        <Item type="CAICurvePoint">
+          <Angle value="0.000000" />
+          <Speed value="64.000000" />
+        </Item>
+        <Item type="CAICurvePoint">
+          <Angle value="2.000000" />
+          <Speed value="54.000000" />
+        </Item>
+        <Item type="CAICurvePoint">
+          <Angle value="6.000000" />
+          <Speed value="31.000000" />
+        </Item>
+        <Item type="CAICurvePoint">
+          <Angle value="12.000000" />
+          <Speed value="21.000000" />
+        </Item>
+        <Item type="CAICurvePoint">
+          <Angle value="22.000000" />
+          <Speed value="16.000000" />
+        </Item>
+        <Item type="CAICurvePoint">
+          <Angle value="28.000000" />
+          <Speed value="14.000000" />
+        </Item>
+        <Item type="CAICurvePoint">
+          <Angle value="40.000000" />
+          <Speed value="12.000000" />
+        </Item>
+        <Item type="CAICurvePoint">
+          <Angle value="90.000000" />
+          <Speed value="9.000000" />
+        </Item>
+        <Item type="CAICurvePoint">
+          <Angle value="180.000000" />
+          <Speed value="3.000000" />
+        </Item>
+      </AICurvePoints>
+    </Item>
+    <Item type="CAIHandlingInfo">
+      <Name>AVERAGE</Name>
+      <MinBrakeDistance value="15.000000" />
+      <MaxBrakeDistance value="85.000000" />
+      <MaxSpeedAtBrakeDistance value="26.000000" />
+      <AbsoluteMinSpeed value="1.000000" />
+      <AICurvePoints>
+        <Item type="CAICurvePoint">
+          <Angle value="0.000000" />
+          <Speed value="44.000000" />
+        </Item>
+		<Item type="CAICurvePoint">
+          <Angle value="2.000000" />
+          <Speed value="33.000000" />
+        </Item>
+        <Item type="CAICurvePoint">
+          <Angle value="6.000000" />
+          <Speed value="22.000000" />
+        </Item>
+        <Item type="CAICurvePoint">
+          <Angle value="12.000000" />
+          <Speed value="19.000000" />
+        </Item>
+        <Item type="CAICurvePoint">
+          <Angle value="22.000000" />
+          <Speed value="16.000000" />
+        </Item>
+        <Item type="CAICurvePoint">
+          <Angle value="28.000000" />
+          <Speed value="12.000000" />
+        </Item>
+        <Item type="CAICurvePoint">
+          <Angle value="40.000000" />
+          <Speed value="10.000000" />
+        </Item>
+        <Item type="CAICurvePoint">
+          <Angle value="90.000000" />
+          <Speed value="8.000000" />
+        </Item>
+        <Item type="CAICurvePoint">
+          <Angle value="180.000000" />
+          <Speed value="3.000000" />
+        </Item>
+      </AICurvePoints>
+    </Item>
+    <Item type="CAIHandlingInfo">
+      <Name>CRAP</Name>
+      <MinBrakeDistance value="16.000000" />
+      <MaxBrakeDistance value="90.000000" />
+      <MaxSpeedAtBrakeDistance value="24.000000" />
+      <AbsoluteMinSpeed value="1.000000" />
+      <AICurvePoints>
+        <Item type="CAICurvePoint">
+          <Angle value="0.000000" />
+          <Speed value="35.000000" />
+        </Item>
+        <Item type="CAICurvePoint">
+          <Angle value="3.000000" />
+          <Speed value="25.000000" />
+        </Item>
+		<Item type="CAICurvePoint">
+          <Angle value="12.000000" />
+          <Speed value="18.000000" />
+        </Item>
+		<Item type="CAICurvePoint">
+          <Angle value="22.000000" />
+          <Speed value="13.000000" />
+        </Item>
+        <Item type="CAICurvePoint">
+          <Angle value="28.000000" />
+          <Speed value="10.000000" />
+        </Item>
+        <Item type="CAICurvePoint">
+          <Angle value="40.000000" />
+          <Speed value="9.000000" />
+        </Item>
+        <Item type="CAICurvePoint">
+          <Angle value="90.000000" />
+          <Speed value="7.000000" />
+        </Item>
+        <Item type="CAICurvePoint">
+          <Angle value="180.000000" />
+          <Speed value="3.000000" />
+        </Item>
+      </AICurvePoints>
+    </Item>
+    <Item type="CAIHandlingInfo">
+      <Name>TRUCK</Name>
+      <MinBrakeDistance value="17.000000" />
+      <MaxBrakeDistance value="100.000000" />
+      <MaxSpeedAtBrakeDistance value="22.000000" />
+      <AbsoluteMinSpeed value="1.000000" />
+      <AICurvePoints>
+        <Item type="CAICurvePoint">
+          <Angle value="0.000000" />
+          <Speed value="34.000000" />
+        </Item>
+        <Item type="CAICurvePoint">
+          <Angle value="3.000000" />
+          <Speed value="18.000000" />
+        </Item>
+        <Item type="CAICurvePoint">
+          <Angle value="28.000000" />
+          <Speed value="12.000000" />
+        </Item>
+        <Item type="CAICurvePoint">
+          <Angle value="40.000000" />
+          <Speed value="8.000000" />
+        </Item>
+        <Item type="CAICurvePoint">
+          <Angle value="90.000000" />
+          <Speed value="5.000000" />
+        </Item>
+        <Item type="CAICurvePoint">
+          <Angle value="180.000000" />
+          <Speed value="2.000000" />
+        </Item>
+      </AICurvePoints>
+    </Item>
+  </AIHandlingInfos>
+</CAIHandlingInfoMgr>
