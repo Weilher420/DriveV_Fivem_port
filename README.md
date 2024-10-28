@@ -17,4 +17,4 @@ Features:
 - Optional AI driving improvements 
 
 ## Based on : <br /> ##
-[Drive V (7.12)](https://fr.gta5-mods.com/vehicles/drive-v-realistic-driving-car-handling) by [PermissionToLand](https://fr.gta5-mods.com/users/PermissionToLand) <br/>
+[Drive V (7.12)](https://gta5-mods.com/vehicles/drive-v-realistic-driving-car-handling) by [PermissionToLand](https://gta5-mods.com/users/PermissionToLand) <br/>
