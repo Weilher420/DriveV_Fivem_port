@@ -1,7 +1,7 @@
 fx_version "cerulean"
 game "gta5"
 author "PermissionToLand"
-description "https://fr.gta5-mods.com/vehicles/drive-v-realistic-driving-car-handling"
+description "https://gta5-mods.com/vehicles/drive-v-realistic-driving-car-handling"
 version "7.12"
 
 files {
