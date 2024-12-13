@@ -1,5 +1,7 @@
 # Drive V (FiveM port)
-[InversePower](https://github.com/Weilher420/InversePower_FiveM_Port) is required to fully works.
+
+## Dependencies
+[InversePower](https://github.com/Weilher420/InversePower_FiveM_Port) (Optional, but strongly recomended).
 
 ## How to Install
 1. **Download** the latest release from the [Releases](https://github.com/Weilher420/DriveV_Fivem_port/releases) page.
