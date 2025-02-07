@@ -387,8 +387,8 @@
         500.000000
       </lodDistances>
       <minSeatHeight value="0.84" />
-      <identicalModelSpawnDistance value="100" />
-      <maxNumOfSameColor value="2" />
+      <identicalModelSpawnDistance value="99" />
+      <maxNumOfSameColor value="1" />
       <defaultBodyHealth value="1000.000000" />
       <pretendOccupantsScale value="1.000000" />
       <visibleSpawnDistScale value="1.000000" />
@@ -508,7 +508,7 @@
       </lodDistances>
       <minSeatHeight value="0.976" />
       <identicalModelSpawnDistance value="20" />
-      <maxNumOfSameColor value="5" />
+      <maxNumOfSameColor value="1" />
       <defaultBodyHealth value="1000.000000" />
       <pretendOccupantsScale value="1.000000" />
       <visibleSpawnDistScale value="1.000000" />
@@ -841,8 +841,8 @@
         500.000000
       </lodDistances>
       <minSeatHeight value="0.831" />
-      <identicalModelSpawnDistance value="400" />
-      <maxNumOfSameColor value="10" />
+      <identicalModelSpawnDistance value="900" />
+      <maxNumOfSameColor value="1" />
       <defaultBodyHealth value="1000.000000" />
       <pretendOccupantsScale value="1.000000" />
       <visibleSpawnDistScale value="1.000000" />
@@ -850,7 +850,7 @@
       <weaponForceMult value="1.000000" />
       <frequency value="5" />
       <swankness>SWANKNESS_3</swankness>
-      <maxNum value="1" />
+      <maxNum value="18" />
       <flags>FLAG_SPORTS FLAG_PARKING_SENSORS FLAG_RICH_CAR FLAG_AVERAGE_CAR FLAG_HAS_INTERIOR_EXTRAS</flags>
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_BACK_PLATES</plateType>
@@ -1290,7 +1290,7 @@
       </lodDistances>
 	  <minSeatHeight value="0.700" />
       <identicalModelSpawnDistance value="100" />
-      <maxNumOfSameColor value="10" />
+      <maxNumOfSameColor value="1" />
       <defaultBodyHealth value="1000.000000" />
       <pretendOccupantsScale value="1.000000" />
       <visibleSpawnDistScale value="1.000000" />
@@ -1515,7 +1515,7 @@
       <frequency value="10" />
       <swankness>SWANKNESS_4</swankness>
       <maxNum value="1" />
-      <flags>FLAG_EXTRAS_STRONG FLAG_AVERAGE_CAR FLAG_CAN_HAVE_NEONS FLAG_HAS_LOWRIDER_HYDRAULICS FLAG_EXTRAS_REQUIRE FLAG_EXTRAS_ALL FLAG_EXTRAS_CONVERTIBLE</flags>
+      <flags>FLAG_EXTRAS_STRONG FLAG_AVERAGE_CAR FLAG_HAS_LOWRIDER_HYDRAULICS FLAG_EXTRAS_REQUIRE FLAG_EXTRAS_ALL FLAG_EXTRAS_CONVERTIBLE</flags>
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_FRONT_AND_BACK_PLATES</plateType>
 	  <dashboardType>VDT_PEYOTE</dashboardType>

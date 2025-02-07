@@ -398,8 +398,8 @@
         500.000000
       </lodDistances>
       <minSeatHeight value="0.87" />
-      <identicalModelSpawnDistance value="200" />
-      <maxNumOfSameColor value="2" />
+      <identicalModelSpawnDistance value="500" />
+      <maxNumOfSameColor value="1" />
       <defaultBodyHealth value="1000.000000" />
       <pretendOccupantsScale value="1.000000" />
       <visibleSpawnDistScale value="1.000000" />
@@ -1820,7 +1820,7 @@
       </lodDistances>
       <minSeatHeight value="0.988" />
       <identicalModelSpawnDistance value="50" />
-      <maxNumOfSameColor value="5" />
+      <maxNumOfSameColor value="1" />
       <defaultBodyHealth value="1000.000000" />
       <pretendOccupantsScale value="1.000000" />
       <visibleSpawnDistScale value="1.000000" />

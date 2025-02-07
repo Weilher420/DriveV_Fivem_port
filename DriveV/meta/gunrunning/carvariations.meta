@@ -824,26 +824,6 @@
         </Item>
         <Item>
           <indices content="char_array">
-            0
-            0
-            0 
-            112
-            93
-            93
-          </indices>
-          <liveries>
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-          </liveries>
-        </Item>
-        <Item>
-          <indices content="char_array">
             136
             136
             0 
@@ -1783,11 +1763,11 @@
     <Item>
       <modelName>ardent</modelName>
       <colors>
-        <Item>
+        <Item> <!--Saturn Silver-->
           <indices content="char_array">
-            29
-            29
-            0 
+            18
+            18
+            134
             112
             93
             93
@@ -1823,10 +1803,10 @@
             <Item value="false" />
           </liveries>
         </Item>
-        <Item>
+        <Item> <!--Racing Green-->
           <indices content="char_array">
-            88
-            88
+            56
+            56
             0 
             112
             93
@@ -1863,10 +1843,10 @@
             <Item value="false" />
           </liveries>
         </Item>
-        <Item>
+        <Item> <!--Calypso Red-->
           <indices content="char_array">
-            139
-            139
+            28
+            28
             0 
             112
             93
@@ -1883,11 +1863,11 @@
             <Item value="false" />
           </liveries>
         </Item>
-        <Item>
+        <Item> <!--Azure-->
           <indices content="char_array">
-            63
-            63
-            0 
+            79
+            79
+            81
             112
             93
             93
@@ -1903,11 +1883,11 @@
             <Item value="false" />
           </liveries>
         </Item>
-        <Item>
+        <Item> <!--Ruby-->
           <indices content="char_array">
-            50
-            50
-            0 
+            34
+            34
+            28
             112
             93
             93
@@ -1923,11 +1903,51 @@
             <Item value="false" />
           </liveries>
         </Item>
-        <Item>
+		<Item> <!--Bronze-->
           <indices content="char_array">
-            74
-            74
-            0 
+            104
+            104
+            104
+            112
+            93
+            93
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+		<Item> <!--Norfolk Yellow-->
+          <indices content="char_array">
+            88
+            88
+            0
+            112
+            93
+            93
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item> <!--Chrome Orange-->
+          <indices content="char_array">
+            36
+            36
+            38
             112
             93
             93

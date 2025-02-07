@@ -547,8 +547,8 @@
       <weaponForceMult value="1.000000" />
       <frequency value="15" />
       <swankness>SWANKNESS_4</swankness>
-      <maxNum value="1" />
-      <flags>FLAG_EXTRAS_STRONG FLAG_RICH_CAR FLAG_AVERAGE_CAR FLAG_HAS_INTERIOR_EXTRAS FLAG_CAN_HAVE_NEONS</flags>
+      <maxNum value="16" />
+      <flags>FLAG_EXTRAS_STRONG FLAG_RICH_CAR FLAG_AVERAGE_CAR FLAG_HAS_INTERIOR_EXTRAS</flags>
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_BACK_PLATES</plateType>
 	  <dashboardType>VDT_DUKES</dashboardType>

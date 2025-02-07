@@ -2214,7 +2214,7 @@
       </lodDistances>
       <minSeatHeight value="0.952" />
       <identicalModelSpawnDistance value="75" />
-      <maxNumOfSameColor value="3" />
+      <maxNumOfSameColor value="1" />
       <defaultBodyHealth value="1000.000000" />
       <pretendOccupantsScale value="1.000000" />
       <visibleSpawnDistScale value="1.000000" />
@@ -2335,7 +2335,7 @@
       </lodDistances>
       <minSeatHeight value="0.887" />
       <identicalModelSpawnDistance value="40" />
-      <maxNumOfSameColor value="5" />
+      <maxNumOfSameColor value="2" />
       <defaultBodyHealth value="1000.000000" />
       <pretendOccupantsScale value="1.000000" />
       <visibleSpawnDistScale value="1.000000" />
@@ -2456,7 +2456,7 @@
       </lodDistances>
       <minSeatHeight value="0.962" />
       <identicalModelSpawnDistance value="50" />
-      <maxNumOfSameColor value="5" />
+      <maxNumOfSameColor value="1" />
       <defaultBodyHealth value="1000.000000" />
       <pretendOccupantsScale value="1.000000" />
       <visibleSpawnDistScale value="1.000000" />
@@ -2580,7 +2580,7 @@
       <weaponForceMult value="1.000000" />
       <frequency value="5" />
       <swankness>SWANKNESS_4</swankness>
-      <maxNum value="1" />
+      <maxNum value="17" />
       <flags>FLAG_SPORTS FLAG_EXTRAS_CONVERTIBLE FLAG_EXTRAS_STRONG FLAG_RICH_CAR FLAG_NO_BROKEN_DOWN_SCENARIO FLAG_HAS_INTERIOR_EXTRAS FLAG_RECESSED_TAILLIGHT_CORONAS</flags>
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_BACK_PLATES</plateType>
@@ -3397,7 +3397,7 @@
       </lodDistances>
       <minSeatHeight value="0.931" />
       <identicalModelSpawnDistance value="30" />
-      <maxNumOfSameColor value="10" />
+      <maxNumOfSameColor value="3" />
       <defaultBodyHealth value="1000.000000" />
       <pretendOccupantsScale value="1.000000" />
       <visibleSpawnDistScale value="1.000000" />
@@ -4581,7 +4581,7 @@
       </lodDistances>
       <minSeatHeight value="0.868" />
       <identicalModelSpawnDistance value="20" />
-      <maxNumOfSameColor value="2" />
+      <maxNumOfSameColor value="1" />
       <defaultBodyHealth value="1000.000000" />
       <pretendOccupantsScale value="1.000000" />
       <visibleSpawnDistScale value="1.000000" />
@@ -4704,7 +4704,7 @@
       </lodDistances>
       <minSeatHeight value="0.818" />
       <identicalModelSpawnDistance value="20" />
-      <maxNumOfSameColor value="2" />
+      <maxNumOfSameColor value="1" />
       <defaultBodyHealth value="1000.000000" />
       <pretendOccupantsScale value="1.000000" />
       <visibleSpawnDistScale value="1.000000" />
@@ -4948,7 +4948,7 @@
       <weaponForceMult value="1.000000" />
       <frequency value="1" />
       <swankness>SWANKNESS_5</swankness>
-      <maxNum value="1" />
+      <maxNum value="8" />
       <flags>FLAG_SPORTS FLAG_SPAWN_ON_TRAILER FLAG_EXTRAS_REQUIRE FLAG_RICH_CAR FLAG_NO_BROKEN_DOWN_SCENARIO FLAG_RECESSED_TAILLIGHT_CORONAS</flags>
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_BACK_PLATES</plateType>
@@ -6947,7 +6947,7 @@
       <weaponForceMult value="1.000000" />
       <frequency value="10" />
       <swankness>SWANKNESS_4</swankness>
-      <maxNum value="5" />
+      <maxNum value="15" />
       <flags>FLAG_BOOT_IN_FRONT FLAG_SPORTS FLAG_SPAWN_ON_TRAILER FLAG_PARKING_SENSORS FLAG_RICH_CAR FLAG_NO_BROKEN_DOWN_SCENARIO</flags>
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_BACK_PLATES</plateType>
@@ -7170,7 +7170,7 @@
       <weaponForceMult value="1.000000" />
       <frequency value="30" />
       <swankness>SWANKNESS_4</swankness>
-      <maxNum value="1" />
+      <maxNum value="14" />
       <flags>FLAG_NO_BOOT FLAG_SPORTS FLAG_SPAWN_ON_TRAILER FLAG_EXTRAS_CONVERTIBLE FLAG_EXTRAS_STRONG FLAG_PARKING_SENSORS FLAG_RICH_CAR FLAG_NO_BROKEN_DOWN_SCENARIO FLAG_RECESSED_TAILLIGHT_CORONAS</flags>
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_BACK_PLATES</plateType>
@@ -7383,7 +7383,7 @@
       </lodDistances>
       <minSeatHeight value="0.928" />
       <identicalModelSpawnDistance value="20" />
-      <maxNumOfSameColor value="10" />
+      <maxNumOfSameColor value="2" />
       <defaultBodyHealth value="1000.000000" />
       <pretendOccupantsScale value="1.000000" />
       <visibleSpawnDistScale value="1.000000" />
@@ -8819,14 +8819,14 @@
         500.000000
       </lodDistances>
       <minSeatHeight value="0.85" />
-      <identicalModelSpawnDistance value="150" />
+      <identicalModelSpawnDistance value="950" />
       <maxNumOfSameColor value="1" />
       <defaultBodyHealth value="1000.000000" />
       <pretendOccupantsScale value="1.000000" />
       <visibleSpawnDistScale value="1.000000" />
       <trackerPathWidth value="2.000000" />
       <weaponForceMult value="1.000000" />
-      <frequency value="75" />
+      <frequency value="70" />
       <swankness>SWANKNESS_3</swankness>
       <maxNum value="16" />
       <flags>FLAG_SPAWN_ON_TRAILER FLAG_PARKING_SENSORS FLAG_AVERAGE_CAR FLAG_RECESSED_HEADLIGHT_CORONAS FLAG_HAS_INTERIOR_EXTRAS</flags>
@@ -9541,7 +9541,7 @@
       <weaponForceMult value="1.000000" />
       <frequency value="20" />
       <swankness>SWANKNESS_4</swankness>
-      <maxNum value="1" />
+      <maxNum value="13" />
       <flags>FLAG_SPORTS FLAG_AVERAGE_CAR FLAG_HAS_INTERIOR_EXTRAS</flags>
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_BACK_PLATES</plateType>
@@ -11297,7 +11297,7 @@
         500.000000
       </lodDistances>
       <minSeatHeight value="0.831" />
-      <identicalModelSpawnDistance value="200" />
+      <identicalModelSpawnDistance value="400" />
       <maxNumOfSameColor value="1" />
       <defaultBodyHealth value="1000.000000" />
       <pretendOccupantsScale value="1.000000" />
@@ -12133,7 +12133,7 @@
       </lodDistances>
       <minSeatHeight value="0.858" />
       <identicalModelSpawnDistance value="30" />
-      <maxNumOfSameColor value="6" />
+      <maxNumOfSameColor value="2" />
       <defaultBodyHealth value="1000.000000" />
       <pretendOccupantsScale value="1.000000" />
       <visibleSpawnDistScale value="1.000000" />
@@ -12497,7 +12497,7 @@
       <weaponForceMult value="1.000000" />
       <frequency value="10" />
       <swankness>SWANKNESS_5</swankness>
-      <maxNum value="1" />
+      <maxNum value="6" />
       <flags>FLAG_SPORTS FLAG_RICH_CAR FLAG_SPAWN_ON_TRAILER FLAG_RICH_CAR FLAG_COUNT_AS_FACEBOOK_DRIVEN FLAG_HAS_INTERIOR_EXTRAS</flags>
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_BACK_PLATES</plateType>
@@ -12965,9 +12965,9 @@
       <visibleSpawnDistScale value="1.000000" />
       <trackerPathWidth value="2.000000" />
       <weaponForceMult value="1.000000" />
-      <frequency value="25" />
+      <frequency value="20" />
       <swankness>SWANKNESS_3</swankness>
-      <maxNum value="9" />
+      <maxNum value="17" />
       <flags>FLAG_SPAWN_ON_TRAILER FLAG_EXTRAS_CONVERTIBLE FLAG_EXTRAS_STRONG FLAG_POOR_CAR FLAG_RECESSED_HEADLIGHT_CORONAS FLAG_RECESSED_TAILLIGHT_CORONAS</flags>
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_FRONT_AND_BACK_PLATES</plateType>
@@ -13079,7 +13079,7 @@
       </lodDistances>
       <minSeatHeight value="0.846" />
       <identicalModelSpawnDistance value="20" />
-      <maxNumOfSameColor value="10" />
+      <maxNumOfSameColor value="1" />
       <defaultBodyHealth value="1000.000000" />
       <pretendOccupantsScale value="1.000000" />
       <visibleSpawnDistScale value="1.000000" />
@@ -13087,7 +13087,7 @@
       <weaponForceMult value="0.900000" />
       <frequency value="80" />
       <swankness>SWANKNESS_1</swankness>
-      <maxNum value="999" />
+      <maxNum value="500" />
       <flags>FLAG_EXTRAS_STRONG FLAG_AVERAGE_CAR FLAG_IS_OFFROAD_VEHICLE FLAG_IS_BULKY FLAG_HAS_INTERIOR_EXTRAS</flags>
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_FRONT_AND_BACK_PLATES</plateType>
@@ -14410,8 +14410,8 @@
         500.000000
       </lodDistances>
       <minSeatHeight value="0.862" />
-      <identicalModelSpawnDistance value="30" />
-      <maxNumOfSameColor value="5" />
+      <identicalModelSpawnDistance value="50" />
+      <maxNumOfSameColor value="2" />
       <defaultBodyHealth value="1000.000000" />
       <pretendOccupantsScale value="1.000000" />
       <visibleSpawnDistScale value="1.000000" />
@@ -14531,8 +14531,8 @@
         500.000000
       </lodDistances>
       <minSeatHeight value="0.867" />
-      <identicalModelSpawnDistance value="30" />
-      <maxNumOfSameColor value="5" />
+      <identicalModelSpawnDistance value="50" />
+      <maxNumOfSameColor value="3" />
       <defaultBodyHealth value="1000.000000" />
       <pretendOccupantsScale value="1.000000" />
       <visibleSpawnDistScale value="1.000000" />
@@ -15120,7 +15120,7 @@
         500.000000
       </lodDistances>
       <minSeatHeight value="0.836" />
-      <identicalModelSpawnDistance value="400" />
+      <identicalModelSpawnDistance value="900" />
       <maxNumOfSameColor value="1" />
       <defaultBodyHealth value="1000.000000" />
       <pretendOccupantsScale value="1.000000" />
@@ -15129,7 +15129,7 @@
       <weaponForceMult value="0.800000" />
       <frequency value="10" />
       <swankness>SWANKNESS_5</swankness>
-      <maxNum value="1" />
+      <maxNum value="13" />
       <flags>FLAG_EXTRAS_CONVERTIBLE FLAG_EXTRAS_STRONG FLAG_RICH_CAR</flags>
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_BACK_PLATES</plateType>
@@ -15360,7 +15360,7 @@
         500.000000
       </lodDistances>
       <minSeatHeight value="0.771" />
-      <identicalModelSpawnDistance value="500" />
+      <identicalModelSpawnDistance value="900" />
       <maxNumOfSameColor value="1" />
       <defaultBodyHealth value="1000.000000" />
       <pretendOccupantsScale value="1.000000" />
@@ -15637,7 +15637,7 @@
       <animConvRoofName>null</animConvRoofName>
       <animConvRoofWindowsAffected />
       <ptfxAssetName>null</ptfxAssetName>
-      <audioNameHash>GLENDALE</audioNameHash>
+      <audioNameHash />
       <layout>LAYOUT_STANDARD</layout>
       <coverBoundOffsets>POLICE_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
@@ -15897,7 +15897,7 @@
       <animConvRoofName>null</animConvRoofName>
       <animConvRoofWindowsAffected />
       <ptfxAssetName>null</ptfxAssetName>
-      <audioNameHash>BUFFALO2</audioNameHash>
+      <audioNameHash />
       <layout>LAYOUT_STANDARD</layout>
       <coverBoundOffsets>BUFFALO_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
@@ -18121,7 +18121,7 @@
       <weaponForceMult value="1.000000" />
       <frequency value="20" />
       <swankness>SWANKNESS_3</swankness>
-      <maxNum value="5" />
+      <maxNum value="15" />
       <flags>FLAG_EXTRAS_STRONG FLAG_AVERAGE_CAR FLAG_POOR_CAR FLAG_FAKE_EXTRALIGHTS FLAG_HAS_INTERIOR_EXTRAS</flags>
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_FRONT_PLATES</plateType>
@@ -18484,7 +18484,7 @@
         500.000000
       </lodDistances>
       <minSeatHeight value="0.852" />
-      <identicalModelSpawnDistance value="170" />
+      <identicalModelSpawnDistance value="470" />
       <maxNumOfSameColor value="1" />
       <defaultBodyHealth value="1000.000000" />
       <pretendOccupantsScale value="1.000000" />
@@ -18493,7 +18493,7 @@
       <weaponForceMult value="1.000000" />
       <frequency value="55" />
       <swankness>SWANKNESS_3</swankness>
-      <maxNum value="13" />
+      <maxNum value="15" />
       <flags>FLAG_EXTRAS_STRONG FLAG_AVERAGE_CAR FLAG_POOR_CAR FLAG_HAS_NO_ROOF FLAG_RECESSED_HEADLIGHT_CORONAS FLAG_RECESSED_TAILLIGHT_CORONAS FLAG_HAS_INTERIOR_EXTRAS</flags>
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_FRONT_AND_BACK_PLATES</plateType>
@@ -19514,7 +19514,7 @@
       </lodDistances>
       <minSeatHeight value="0.933" />
       <identicalModelSpawnDistance value="30" />
-      <maxNumOfSameColor value="10" />
+      <maxNumOfSameColor value="2" />
       <defaultBodyHealth value="1000.000000" />
       <pretendOccupantsScale value="1.000000" />
       <visibleSpawnDistScale value="1.000000" />
@@ -20027,7 +20027,7 @@
       </lodDistances>
       <minSeatHeight value="0.83" />
       <identicalModelSpawnDistance value="50" />
-      <maxNumOfSameColor value="10" />
+      <maxNumOfSameColor value="7" />
       <defaultBodyHealth value="1000.000000" />
       <pretendOccupantsScale value="1.000000" />
       <visibleSpawnDistScale value="1.000000" />
@@ -20138,7 +20138,7 @@
       </lodDistances>
       <minSeatHeight value="0.87" />
       <identicalModelSpawnDistance value="40" />
-      <maxNumOfSameColor value="5" />
+      <maxNumOfSameColor value="2" />
       <defaultBodyHealth value="1000.000000" />
       <pretendOccupantsScale value="1.000000" />
       <visibleSpawnDistScale value="1.000000" />
@@ -20370,7 +20370,7 @@
         500.000000
       </lodDistances>
       <minSeatHeight value="0.929" />
-      <identicalModelSpawnDistance value="30" />
+      <identicalModelSpawnDistance value="60" />
       <maxNumOfSameColor value="1" />
       <defaultBodyHealth value="1000.000000" />
       <pretendOccupantsScale value="1.000000" />
@@ -20379,7 +20379,7 @@
       <weaponForceMult value="1.000000" />
       <frequency value="80" />
       <swankness>SWANKNESS_2</swankness>
-      <maxNum value="500" />
+      <maxNum value="250" />
       <flags>FLAG_AVERAGE_CAR FLAG_IS_OFFROAD_VEHICLE FLAG_IS_BULKY FLAG_ATTACH_TRAILER_ON_HIGHWAY FLAG_HAS_INTERIOR_EXTRAS</flags>
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_BACK_PLATES</plateType>
@@ -20997,7 +20997,7 @@
       <animConvRoofName>null</animConvRoofName>
       <animConvRoofWindowsAffected />
       <ptfxAssetName>null</ptfxAssetName>
-      <audioNameHash>GLENDALE</audioNameHash>
+      <audioNameHash />
       <layout>LAYOUT_STANDARD</layout>
       <coverBoundOffsets>SHERIFF_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
@@ -22651,7 +22651,7 @@
       <weaponForceMult value="0.800000" />
       <frequency value="20" />
       <swankness>SWANKNESS_2</swankness>
-      <maxNum value="5" />
+      <maxNum value="10" />
       <flags>FLAG_IS_VAN FLAG_EXTRAS_STRONG FLAG_AVERAGE_CAR FLAG_DONT_SPAWN_IN_CARGEN FLAG_IS_OFFROAD_VEHICLE FLAG_IS_BULKY</flags>
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_FRONT_AND_BACK_PLATES</plateType>
@@ -22872,8 +22872,8 @@
         500.000000
       </lodDistances>
       <minSeatHeight value="0.809" />
-      <identicalModelSpawnDistance value="40" />
-      <maxNumOfSameColor value="5" />
+      <identicalModelSpawnDistance value="90" />
+      <maxNumOfSameColor value="1" />
       <defaultBodyHealth value="1000.000000" />
       <pretendOccupantsScale value="1.000000" />
       <visibleSpawnDistScale value="1.000000" />
@@ -24267,7 +24267,7 @@
       <weaponForceMult value="1.000000" />
       <frequency value="5" />
       <swankness>SWANKNESS_5</swankness>
-      <maxNum value="4" />
+      <maxNum value="18" />
       <flags>FLAG_SPAWN_ON_TRAILER FLAG_RICH_CAR FLAG_AVERAGE_CAR FLAG_HAS_INTERIOR_EXTRAS</flags>
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_BACK_PLATES</plateType>
@@ -24975,14 +24975,14 @@
         500.000000
       </lodDistances>
       <minSeatHeight value="0.988" />
-      <identicalModelSpawnDistance value="250" />
+      <identicalModelSpawnDistance value="950" />
       <maxNumOfSameColor value="1" />
       <defaultBodyHealth value="1000.000000" />
       <pretendOccupantsScale value="1.000000" />
       <visibleSpawnDistScale value="1.000000" />
       <trackerPathWidth value="2.000000" />
       <weaponForceMult value="1.000000" />
-      <frequency value="10" />
+      <frequency value="2" />
       <swankness>SWANKNESS_1</swankness>
       <maxNum value="5" />
       <flags>FLAG_NO_BOOT FLAG_USE_STRICTER_EXIT_COLLISION_TESTS FLAG_HAS_INTERIOR_EXTRAS</flags>
@@ -25094,7 +25094,7 @@
       </lodDistances>
       <minSeatHeight value="1.076" />
       <identicalModelSpawnDistance value="200" />
-      <maxNumOfSameColor value="10" />
+      <maxNumOfSameColor value="1" />
       <defaultBodyHealth value="1000.000000" />
       <pretendOccupantsScale value="1.000000" />
       <visibleSpawnDistScale value="1.000000" />
@@ -25102,7 +25102,7 @@
       <weaponForceMult value="1.000000" />
       <frequency value="10" />
       <swankness>SWANKNESS_1</swankness>
-      <maxNum value="2" />
+      <maxNum value="5" />
       <flags>FLAG_BIG FLAG_NO_BOOT FLAG_AVOID_TURNS FLAG_DELIVERY FLAG_EXTRAS_REQUIRE FLAG_EXTRAS_STRONG FLAG_IS_BULKY FLAG_BLOCK_FROM_ATTRACTOR_SCENARIO</flags>
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_FRONT_AND_BACK_PLATES</plateType>
@@ -25578,7 +25578,7 @@
       </lodDistances>
       <minSeatHeight value="0.844" />
       <identicalModelSpawnDistance value="30" />
-      <maxNumOfSameColor value="7" />
+      <maxNumOfSameColor value="2" />
       <defaultBodyHealth value="1000.000000" />
       <pretendOccupantsScale value="1.000000" />
       <visibleSpawnDistScale value="1.000000" />
@@ -28214,7 +28214,7 @@
       <weaponForceMult value="1.000000" />
       <frequency value="15" />
       <swankness>SWANKNESS_4</swankness>
-      <maxNum value="17" />
+      <maxNum value="19" />
       <flags>FLAG_AVERAGE_CAR FLAG_RECESSED_HEADLIGHT_CORONAS FLAG_RECESSED_TAILLIGHT_CORONAS FLAG_HAS_INTERIOR_EXTRAS</flags>
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_BACK_PLATES</plateType>
@@ -34202,7 +34202,7 @@
       <weaponForceMult value="1.000000" />
       <frequency value="10" />
       <swankness>SWANKNESS_1</swankness>
-      <maxNum value="999" />
+      <maxNum value="20" />
       <flags>FLAG_EXTRAS_REQUIRE FLAG_EXTRAS_STRONG FLAG_PEDS_CAN_STAND_ON_TOP FLAG_GEN_NAVMESH FLAG_DONT_SPAWN_AS_AMBIENT</flags>
       <type>VEHICLE_TYPE_TRAILER</type>
       <plateType>VPT_NONE</plateType>
@@ -34427,7 +34427,7 @@
       <frequency value="1" />
       <swankness>SWANKNESS_5</swankness>
       <maxNum value="1" />
-      <flags>FLAG_FRONT_BOOT FLAG_SPORTS FLAG_SPAWN_ON_TRAILER FLAG_EXTRAS_REQUIRE FLAG_EXTRAS_STRONG FLAG_NO_BROKEN_DOWN_SCENARIO FLAG_COUNT_AS_FACEBOOK_DRIVEN FLAG_HAS_INTERIOR_EXTRAS</flags>
+      <flags>FLAG_FRONT_BOOT FLAG_DONT_SPAWN_IN_CARGEN FLAG_EXTRAS_REQUIRE FLAG_EXTRAS_STRONG FLAG_NO_BROKEN_DOWN_SCENARIO FLAG_HAS_INTERIOR_EXTRAS</flags>
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_BACK_PLATES</plateType>
 	  <dashboardType>VDT_SUPERGT</dashboardType>
@@ -34535,7 +34535,7 @@
       <weaponForceMult value="1.000000" />
       <frequency value="30" />
       <swankness>SWANKNESS_4</swankness>
-      <maxNum value="1" />
+      <maxNum value="11" />
       <flags>FLAG_SPORTS FLAG_EXTRAS_CONVERTIBLE FLAG_EXTRAS_STRONG FLAG_RICH_CAR FLAG_IS_ELECTRIC FLAG_NO_BROKEN_DOWN_SCENARIO FLAG_HAS_INTERIOR_EXTRAS FLAG_INCREASE_LOW_SPEED_TORQUE</flags>
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_BACK_PLATES</plateType>

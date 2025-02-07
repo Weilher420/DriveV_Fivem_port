@@ -78,9 +78,9 @@
       <visibleSpawnDistScale value="1.000000" />
       <trackerPathWidth value="2.000000" />
       <weaponForceMult value="1.000000" />
-      <frequency value="1" />
-      <swankness>SWANKNESS_5</swankness>
-      <maxNum value="2" />
+      <frequency value="15" />
+      <swankness>SWANKNESS_4</swankness>
+      <maxNum value="13" />
       <flags>FLAG_SPORTS FLAG_HAS_INTERIOR_EXTRAS</flags>
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_FRONT_AND_BACK_PLATES</plateType>
@@ -2526,7 +2526,7 @@
       <extraIncludes />
       <doorsWithCollisionWhenClosed />
       <driveableDoors />
-      <bumpersNeedToCollideWithMap value="true" />
+      <bumpersNeedToCollideWithMap value="false" />
       <needsRopeTexture value="false" />
       <requiredExtras />
       <rewards />

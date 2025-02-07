@@ -799,7 +799,7 @@
         500.000000
       </lodDistances>
       <minSeatHeight value="0.844" />
-      <identicalModelSpawnDistance value="500" />
+      <identicalModelSpawnDistance value="900" />
       <maxNumOfSameColor value="1" />
       <defaultBodyHealth value="1000.000000" />
       <pretendOccupantsScale value="1.000000" />
@@ -807,7 +807,7 @@
       <trackerPathWidth value="2.000000" />
       <weaponForceMult value="1.000000" />
       <frequency value="25" />
-      <swankness>SWANKNESS_5</swankness>
+      <swankness>SWANKNESS_4</swankness>
       <maxNum value="10" />
       <flags>FLAG_EXTRAS_STRONG FLAG_HAS_INTERIOR_EXTRAS FLAG_HAS_SUPERCHARGER</flags>
       <type>VEHICLE_TYPE_CAR</type>
@@ -1980,10 +1980,10 @@
       <visibleSpawnDistScale value="1.000000" />
       <trackerPathWidth value="2.000000" />
       <weaponForceMult value="1.000000" />
-      <frequency value="10" />
+      <frequency value="15" />
       <swankness>SWANKNESS_4</swankness>
-      <maxNum value="15" />
-      <flags>FLAG_SPORTS FLAG_HAS_INTERIOR_EXTRAS</flags>
+      <maxNum value="19" />
+      <flags>FLAG_HAS_INTERIOR_EXTRAS</flags>
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_BACK_PLATES</plateType>
 	  <dashboardType>VDT_DUKES</dashboardType>
@@ -2284,7 +2284,7 @@
       </lodDistances>
       <minSeatHeight value="0.481" />
       <identicalModelSpawnDistance value="40" />
-      <maxNumOfSameColor value="5" />
+      <maxNumOfSameColor value="1" />
       <defaultBodyHealth value="1000.000000" />
       <pretendOccupantsScale value="1.000000" />
       <visibleSpawnDistScale value="1.000000" />

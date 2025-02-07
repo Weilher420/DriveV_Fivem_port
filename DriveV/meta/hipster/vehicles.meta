@@ -203,7 +203,7 @@
       <weaponForceMult value="1.000000" />
       <frequency value="20" />
       <swankness>SWANKNESS_4</swankness>
-      <maxNum value="3" />
+      <maxNum value="14" />
       <flags>FLAG_AVERAGE_CAR FLAG_POOR_CAR FLAG_NO_BROKEN_DOWN_SCENARIO FLAG_RECESSED_HEADLIGHT_CORONAS</flags>
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_BACK_PLATES</plateType>
@@ -315,9 +315,9 @@
       <visibleSpawnDistScale value="1.000000" />
       <trackerPathWidth value="2.000000" />
       <weaponForceMult value="1.000000" />
-      <frequency value="1" />
+      <frequency value="5" />
       <swankness>SWANKNESS_5</swankness>
-      <maxNum value="1" />
+      <maxNum value="14" />
       <flags>FLAG_RICH_CAR FLAG_EXTRAS_ALL FLAG_RECESSED_HEADLIGHT_CORONAS FLAG_RECESSED_TAILLIGHT_CORONAS</flags>
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_BACK_PLATES</plateType>

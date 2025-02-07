@@ -427,13 +427,13 @@
 	<Item>
       <modelName>r300</modelName>
       <colors>
-		<Item>
+		<Item> <!--Black Diamond-->
           <indices content="char_array">
-            35
-            35
-            28
+            0
+            0
+            3
             2
-	        27
+	        2
 	        156
           </indices>
           <liveries>
@@ -447,7 +447,7 @@
             <Item value="false" />
           </liveries>
         </Item>
-		<Item>
+		<Item> <!--Brilliant Silver-->
           <indices content="char_array">
             7
             7
@@ -467,13 +467,133 @@
             <Item value="false" />
           </liveries>
         </Item>
-		<Item>
+		<Item> <!--Gun Metallic-->
           <indices content="char_array">
-            112
-            112
-            134
             2
-	        27
+            2
+            5
+            2
+	        2
+	        156
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+		<Item> <!--Boulder Gray-->
+          <indices content="char_array">
+            7
+            7
+            0
+            2
+	        2
+	        156
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+		<Item> <!--Everest White-->
+          <indices content="char_array">
+            134
+            134
+            0
+            2
+	        2
+	        156
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+		<Item> <!--Seiran Blue-->
+          <indices content="char_array">
+            64
+            64
+            70
+            2
+	        2
+	        156
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+		<Item> <!--Ikazuchi Yellow-->
+          <indices content="char_array">
+            91
+            91
+            89
+            2
+	        2
+	        156
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+		<Item> <!--Passion Red-->
+          <indices content="char_array">
+            33
+            33
+            35
+            2
+	        2
+	        156
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+		<Item> <!--Rosewood Metallic-->
+          <indices content="char_array">
+            34
+            34
+            104
+            2
+	        2
 	        156
           </indices>
           <liveries>
@@ -641,7 +761,7 @@
         </Item>
 		<Item>
           <indices content="char_array">
-            37
+            93
             120
             134
             156
@@ -701,6 +821,25 @@
             60
             5
             0
+            156
+            106            	
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            2
+            120
+            14
             156
             106            	
           </indices>
@@ -1404,33 +1543,13 @@
     </Item> 
     <Item>
       <modelName>panthere</modelName>
-      <colors>
-        <Item>
-          <indices content="char_array">
-            27 
-            0 
-            28 
-            0
-            93
-            134		
-          </indices>
-          <liveries>
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-          </liveries>
-        </Item>		  
-        <Item>
+      <colors>	  
+        <Item> <!--Alpine Blue-->
           <indices content="char_array">
             64 
-            0 
-            73 
-            0
+            64
+            74
+            2
             93
             134		
           </indices>
@@ -1447,30 +1566,10 @@
         </Item>	
         <Item>
           <indices content="char_array">
-            111 
-            0 
-            111 
-            0
-            93
-            134		
-          </indices>
-          <liveries>
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-          </liveries>
-        </Item>	
-        <Item>
-          <indices content="char_array">
-            0 
-            1		
-            2 
-            0
+            2
+            2		
+            5 
+            2
             93
             134	
           </indices>
@@ -1484,13 +1583,113 @@
             <Item value="false" />
             <Item value="false" />
           </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            134
+            134
+            0 
+            2
+            93
+            134		
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
         </Item>	
         <Item>
           <indices content="char_array">
+            27 
+            27
+            28 
+            2
+            93
+            134		
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>	
+        <Item>
+          <indices content="char_array">
+            0
+            0		
+            0 
+            2
+            93
+            134		
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>	
+        <Item> <!--Abyss Blue-->
+          <indices content="char_array">
+            61
+            61	
+            80
+            2
+            93
+            134		
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>	
+	    <Item> <!--Fire Orange-->
+          <indices content="char_array">
+            104
+            104	
+            38
+            2
+            93
+            134		
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
             89 
-            1		
+            89	
             2 
-            0
+            2
             93
             134		
           </indices>
@@ -1505,66 +1704,6 @@
             <Item value="false" />
           </liveries>
         </Item>	
-        <Item>
-          <indices content="char_array">
-            3 
-            1		
-            5 
-            0
-            93
-            134		
-          </indices>
-          <liveries>
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-          </liveries>
-        </Item>	
-        <Item>
-          <indices content="char_array">
-            38 
-            1		
-            89 
-            0
-            93
-            134		
-          </indices>
-          <liveries>
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-          </liveries>
-        </Item>	
-	        <Item>
-          <indices content="char_array">
-            70 
-            1		
-            67 
-            0
-            93
-            134		
-          </indices>
-          <liveries>
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-          </liveries>
-        </Item>		
       </colors>
       <kits>
         <Item>516_panthere_modkit</Item>

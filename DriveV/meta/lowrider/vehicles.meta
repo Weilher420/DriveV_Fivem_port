@@ -851,7 +851,7 @@
       <weaponForceMult value="1.000000" />
       <frequency value="12" />
       <swankness>SWANKNESS_4</swankness>
-      <maxNum value="5" />
+      <maxNum value="12" />
       <flags>FLAG_POOR_CAR FLAG_HAS_LOWRIDER_HYDRAULICS </flags>
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_FRONT_AND_BACK_PLATES</plateType>

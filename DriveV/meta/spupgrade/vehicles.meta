@@ -175,10 +175,10 @@
       <visibleSpawnDistScale value="1.000000" />
       <trackerPathWidth value="2.000000" />
       <weaponForceMult value="1.000000" />
-      <frequency value="3" />
+      <frequency value="12" />
       <swankness>SWANKNESS_4</swankness>
-      <maxNum value="10" />
-      <flags>FLAG_EXTRAS_STRONG FLAG_AVERAGE_CAR FLAG_RECESSED_HEADLIGHT_CORONAS FLAG_HAS_INTERIOR_EXTRAS</flags>
+      <maxNum value="19" />
+      <flags>FLAG_EXTRAS_STRONG FLAG_RECESSED_HEADLIGHT_CORONAS FLAG_HAS_INTERIOR_EXTRAS</flags>
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_BACK_PLATES</plateType>
       <vehicleClass>VC_MUSCLE</vehicleClass>
@@ -1061,7 +1061,7 @@
       <frequency value="30" />
       <swankness>SWANKNESS_3</swankness>
       <maxNum value="15" />
-      <flags>FLAG_EXTRAS_STRONG EXTRAS_CONVERTIBLE FLAG_AVERAGE_CAR FLAG_HAS_INTERIOR_EXTRAS</flags>
+      <flags>FLAG_EXTRAS_STRONG FLAG_EXTRAS_CONVERTIBLE FLAG_AVERAGE_CAR FLAG_HAS_INTERIOR_EXTRAS</flags>
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_BACK_PLATES</plateType>
 	  <dashboardType>VDT_DUKES</dashboardType>

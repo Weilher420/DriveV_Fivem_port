@@ -1,8 +1,8 @@
 fx_version "cerulean"
 game "gta5"
-author "PermissionToLand"
-description "https://gta5-mods.com/vehicles/drive-v-realistic-driving-car-handling"
-version "7.12"
+author "PermissionToLand (FiveM port by Weilher) "
+description "https://github.com/Weilher420/DriveV_Fivem_port"
+version "7.2"
 
 files {
 	"meta/**/*.meta",

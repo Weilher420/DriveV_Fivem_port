@@ -991,7 +991,43 @@
     <Item>
       <modelName>dukes</modelName>
       <colors>
-		<Item>
+		<Item> <!-- F4 Light Green -->
+          <indices content="char_array">
+            100 
+            120 
+            60
+            100 
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+		<Item> <!-- Plum Crazy -->
+          <indices content="char_array">
+            72
+            120 
+            81 
+            72
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>	
+		<Item> <!--B5 Bright Blue-->
           <indices content="char_array">
             64 
             120 
@@ -1009,7 +1045,205 @@
             <Item value="false" />
           </liveries>
         </Item>
-		<Item>
+		<Item> <!-- F8 Dark Green -->
+          <indices content="char_array">
+            49 
+            120 
+            110
+            49
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+		<Item> <!--K5 Dark Burnt Orange-->
+          <indices content="char_array">
+            104 
+            120 
+            36 
+            104 
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item> <!--E5 Bright Red-->
+          <indices content="char_array">
+            150 
+            120 
+            0 
+            150 
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+		<Item> <!--B3 Light Blue-->
+          <indices content="char_array">
+            74
+            120 
+            74
+            74 
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+		<Item> <!--Y1 Top Banana-->
+          <indices content="char_array">
+            88 
+            120 
+            0 
+            88 
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item> <!--K2 Go Mango-->
+          <indices content="char_array">
+            36 
+            120 
+            0 
+            36 
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+		<Item> <!-- Y4 Light Gold -->
+          <indices content="char_array">
+            102 
+            120 
+            111 
+            102 
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+		<Item> <!--X9 Black-->
+          <indices content="char_array">
+            0 
+            120 
+            0
+            0 
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+		<Item> <!-- T6 Dark Tan -->
+          <indices content="char_array">
+            97 
+            120 
+            136 
+            97 
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item> <!--Y3 Cream-->
+          <indices content="char_array">
+            106
+            120
+            0
+            106
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+		<Item> <!--Sublime Green-->
+          <indices content="char_array">
+            92 
+            120 
+            0 
+            92 
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+		<Item> <!--B7 Dark Blue-->
           <indices content="char_array">
             62 
             120 
@@ -1027,151 +1261,7 @@
             <Item value="false" />
           </liveries>
         </Item>
-		<Item> <!-- Plum Crazy -->
-          <indices content="char_array">
-            62
-            120 
-            145 
-            62
-          </indices>
-          <liveries>
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-          </liveries>
-        </Item>	
-        <Item>
-          <indices content="char_array">
-            150 
-            120 
-            0 
-            150 
-          </indices>
-          <liveries>
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-          </liveries>
-        </Item>
-		<Item> <!-- F4 Light Green -->
-          <indices content="char_array">
-            100 
-            120 
-            125 
-            100 
-          </indices>
-          <liveries>
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-          </liveries>
-        </Item>
-        <Item>
-          <indices content="char_array">
-            53 
-            120 
-            92 
-            53 
-          </indices>
-          <liveries>
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-          </liveries>
-        </Item>
-		<Item> <!-- F8 Dark Green -->
-          <indices content="char_array">
-            49 
-            120 
-            60 
-            95 
-          </indices>
-          <liveries>
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-          </liveries>
-        </Item>
-		<Item>
-          <indices content="char_array">
-            92 
-            120 
-            0 
-            92 
-          </indices>
-          <liveries>
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-          </liveries>
-        </Item>
-        <Item>
-          <indices content="char_array">
-            36 
-            120 
-            0 
-            36 
-          </indices>
-          <liveries>
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-          </liveries>
-        </Item>
-		<Item>
-          <indices content="char_array">
-            104 
-            120 
-            36 
-            104 
-          </indices>
-          <liveries>
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-          </liveries>
-        </Item>
-        <Item>
+        <Item> <!--M3 Panther Pink-->
           <indices content="char_array">
             135 
             120 
@@ -1189,7 +1279,7 @@
             <Item value="false" />
           </liveries>
         </Item>
-        <Item>
+        <Item> <!--Q5 Bright Turquoise-->
           <indices content="char_array">
             54 
             120 
@@ -1207,7 +1297,7 @@
             <Item value="false" />
           </liveries>
         </Item>
-		<Item>
+		<Item> <!--R8 Burgundy-->
           <indices content="char_array">
             34 
             120 
@@ -1243,97 +1333,7 @@
             <Item value="false" />
           </liveries>
         </Item>
-		<Item> <!-- T6 Dark Tan -->
-          <indices content="char_array">
-            97 
-            120 
-            136 
-            97 
-          </indices>
-          <liveries>
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-          </liveries>
-        </Item>
-        <Item>
-          <indices content="char_array">
-            134 
-            120 
-            0 
-            134 
-          </indices>
-          <liveries>
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-          </liveries>
-        </Item>
-		<Item>
-          <indices content="char_array">
-            88 
-            120 
-            0 
-            88 
-          </indices>
-          <liveries>
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-          </liveries>
-        </Item>
-		<Item> <!-- Y4 Light Gold -->
-          <indices content="char_array">
-            102 
-            120 
-            111 
-            102 
-          </indices>
-          <liveries>
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-          </liveries>
-        </Item>
-		<Item>
-          <indices content="char_array">
-            0 
-            120 
-            0
-            0 
-          </indices>
-          <liveries>
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-          </liveries>
-        </Item>
-		<Item>
+		<Item> <!--A9 Dark Gray-->
           <indices content="char_array">
             2 
             120 
@@ -1513,12 +1513,12 @@
     <Item>
       <modelName>stalion</modelName>
       <colors>
-        <Item>
+        <Item> <!--Meadow Green-->
           <indices content="char_array">
-            0 
+            100
             120 
-            0 
-            156 
+            60
+            100
           </indices>
           <liveries>
             <Item value="false" />
@@ -1531,12 +1531,12 @@
             <Item value="false" />
           </liveries>
         </Item>
-        <Item>
+        <Item> <!--Nassau Blue-->
           <indices content="char_array">
-            32 
+            74
             120 
-            0
-            156 
+            74
+            74 
           </indices>
           <liveries>
             <Item value="false" />
@@ -1549,30 +1549,66 @@
             <Item value="false" />
           </liveries>
         </Item>
-        <Item>
+        <Item> <!--Aztec Gold-->
           <indices content="char_array">
-            36 
-            120 
-            0 
-            156 
-          </indices>
-          <liveries>
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-          </liveries>
-        </Item>
-        <Item>
-          <indices content="char_array">
-            107
+            109
             120
+            106
+            109
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item> <!--Chestnut Bronze-->
+          <indices content="char_array">
+            103
+            120 
+            104
+            103
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item> <!--Trophy Blue-->
+          <indices content="char_array">
+            75
+            120 
+            65
+            75
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item> <!--Crimson Red-->
+          <indices content="char_array">
+            31
+            120 
             0
-            156 
+            31 
           </indices>
           <liveries>
             <Item value="false" />
@@ -1585,12 +1621,12 @@
             <Item value="false" />
           </liveries>
         </Item>
-        <Item>
+        <Item> <!--Topaz Poly-->
           <indices content="char_array">
-            52 
+            37
             120 
-            60 
-            156 
+            106
+            37
           </indices>
           <liveries>
             <Item value="false" />
@@ -1603,84 +1639,12 @@
             <Item value="false" />
           </liveries>
         </Item>
-        <Item>
-          <indices content="char_array">
-            62 
-            120 
-            63
-            156 
-          </indices>
-          <liveries>
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-          </liveries>
-        </Item>
-        <Item>
-          <indices content="char_array">
-            63 
-            120 
-            5
-            156 
-          </indices>
-          <liveries>
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-          </liveries>
-        </Item>
-		<Item>
-          <indices content="char_array">
-            54 
-            120 
-            67 
-            156 
-          </indices>
-          <liveries>
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-          </liveries>
-        </Item>
-        <Item>
-          <indices content="char_array">
-            101 
-            120 
-            154
-            156 
-          </indices>
-          <liveries>
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-          </liveries>
-        </Item>
-        <Item>
+		<Item> <!--Tornado Jade-->
           <indices content="char_array">
             49
             120 
-            100
-            156 
+            69
+            49 
           </indices>
           <liveries>
             <Item value="false" />
@@ -1693,12 +1657,12 @@
             <Item value="false" />
           </liveries>
         </Item>
-		<Item>
+		<Item> <!--Glade Green-->
           <indices content="char_array">
-            111 
+            52
             120 
-            111 
-            156 
+            60
+            52 
           </indices>
           <liveries>
             <Item value="false" />
@@ -1711,12 +1675,12 @@
             <Item value="false" />
           </liveries>
         </Item>
-		<Item>
+        <Item> <!--Sable-->
           <indices content="char_array">
-            37 
+            96
             120 
-            106 
-            156 
+            110
+            96
           </indices>
           <liveries>
             <Item value="false" />
@@ -1729,12 +1693,12 @@
             <Item value="false" />
           </liveries>
         </Item>
-		<Item>
+        <Item> <!--Powder Blue-->
           <indices content="char_array">
-            34 
+            157
             120 
             0
-            156 
+            157
           </indices>
           <liveries>
             <Item value="false" />
@@ -1747,12 +1711,12 @@
             <Item value="false" />
           </liveries>
         </Item>
-		<Item>
+		<Item> <!--Autumn Gold-->
           <indices content="char_array">
-            64 
+            95
             120 
-            70 
-            156 
+            102
+            95
           </indices>
           <liveries>
             <Item value="false" />
@@ -1765,12 +1729,138 @@
             <Item value="false" />
           </liveries>
         </Item>
-		<Item>
+		<Item> <!--Burgundy Mist-->
           <indices content="char_array">
-            53
+            34
             120 
-            125 
-            156 
+            34
+            34 
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+		<Item> <!--Tahitian Turquoise-->
+          <indices content="char_array">
+            54
+            120 
+            68 
+            54
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+		<Item> <!--Saffron-->
+          <indices content="char_array">
+            160
+            120 
+            0 
+            160
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+		<Item> <!--Platinum-->
+          <indices content="char_array">
+            2
+            120 
+            5 
+            2
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+		<Item> <!--Ebony-->
+          <indices content="char_array">
+            0
+            120 
+            0 
+            0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+		<Item> <!--Flamingo Silver-->
+          <indices content="char_array">
+            4
+            120
+            137
+            4
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+		<Item> <!--Covert Beige-->
+          <indices content="char_array">
+            144
+            120 
+            0 
+            144
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+		<Item> <!--Palomino Gold-->
+          <indices content="char_array">
+            106
+            120 
+            106 
+            106
           </indices>
           <liveries>
             <Item value="false" />

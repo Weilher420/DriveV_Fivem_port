@@ -978,10 +978,10 @@
    	<Item>
       <modelName>tailgater2</modelName>
       <colors>
-        <Item> <!-- Nardo Grey -->
+        <Item> <!-- Nardo Gray -->
           <indices content="char_array">
-            156
-            18
+            7
+            7
             0
             156
 			5
@@ -1098,11 +1098,91 @@
             <Item value="false" />
           </liveries>
         </Item>
-		<Item> <!-- Navarra Blue -->
+		<Item> <!-- Scuba Blue -->
           <indices content="char_array">
             75
             75
+            80
+            156 
+			5
+			111			
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+		<Item> <!-- Sepang Blue -->
+          <indices content="char_array">
+            62
+            62
             64
+            156 
+			5
+			111			
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+		<Item> <!-- Beluga Brown -->
+          <indices content="char_array">
+            96
+            96
+            101
+            156 
+			5
+			111			
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+		<Item> <!-- Shiraz Red -->
+          <indices content="char_array">
+            103
+            103
+            34
+            156 
+			5
+			111			
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+		<Item> <!-- Cosmos Blue -->
+          <indices content="char_array">
+            75
+            75
+            84
             156 
 			5
 			111			
@@ -1122,26 +1202,6 @@
           <indices content="char_array">
             88
             88
-            0
-            156 
-			5
-			111			
-          </indices>
-          <liveries>
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-          </liveries>
-        </Item>
-		<Item>
-          <indices content="char_array">
-            92
-            92
             0
             156 
 			5
@@ -2836,8 +2896,8 @@
         </Item>
 		<Item>
           <indices content="char_array">
-            37
-            37
+            93
+            93
             6
             156 
 	        8
@@ -2858,7 +2918,7 @@
           <indices content="char_array">
             10
             10
-            5
+            7
             156 
 	        8
 	        156
@@ -2898,7 +2958,7 @@
           <indices content="char_array">
             49
             49
-            49
+            52
             156 
 	        8
 	        156
@@ -2918,27 +2978,7 @@
           <indices content="char_array">
             71
             71
-            117
-            156 
-	        8
-	        156
-          </indices>
-          <liveries>
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-          </liveries>
-        </Item>
-		<Item>
-          <indices content="char_array">
-            111
-            111
-            0
+            86
             156 
 	        8
 	        156

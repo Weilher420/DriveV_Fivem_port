@@ -80,8 +80,8 @@
       <trackerPathWidth value="2.000000" />
       <weaponForceMult value="1.000000" />
       <frequency value="20" />
-      <swankness>SWANKNESS_5</swankness>
-      <maxNum value="4" />
+      <swankness>SWANKNESS_4</swankness>
+      <maxNum value="14" />
       <flags>FLAG_AVERAGE_CAR FLAG_POOR_CAR FLAG_HAS_INTERIOR_EXTRAS</flags>
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_BACK_PLATES</plateType>
@@ -191,7 +191,7 @@
       <weaponForceMult value="1.000000" />
       <frequency value="1" />
       <swankness>SWANKNESS_5</swankness>
-      <maxNum value="1" />
+      <maxNum value="15" />
       <flags>FLAG_SPORTS FLAG_EXTRAS_CONVERTIBLE FLAG_EXTRAS_STRONG FLAG_RICH_CAR FLAG_NO_BROKEN_DOWN_SCENARIO FLAG_HAS_INTERIOR_EXTRAS FLAG_RECESSED_TAILLIGHT_CORONAS</flags>
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_BACK_PLATES</plateType>

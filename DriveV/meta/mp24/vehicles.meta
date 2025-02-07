@@ -1294,7 +1294,7 @@
         500.000000
       </lodDistances>
       <minSeatHeight value="0.832" />
-      <identicalModelSpawnDistance value="150" />
+      <identicalModelSpawnDistance value="500" />
       <maxNumOfSameColor value="1" />
       <defaultBodyHealth value="1000.000000" />
       <pretendOccupantsScale value="1.000000" />
@@ -2050,7 +2050,7 @@
         500.000000
       </lodDistances>
       <minSeatHeight value="0.988" />
-      <identicalModelSpawnDistance value="90" />
+      <identicalModelSpawnDistance value="500" />
       <maxNumOfSameColor value="1" />
       <defaultBodyHealth value="1000.000000" />
       <pretendOccupantsScale value="1.000000" />
@@ -2158,7 +2158,7 @@
         500.000000
       </lodDistances>
       <minSeatHeight value="0.844" />
-      <identicalModelSpawnDistance value="20" />
+      <identicalModelSpawnDistance value="9999999999" />
       <maxNumOfSameColor value="1" />
       <defaultBodyHealth value="1000.000000" />
       <pretendOccupantsScale value="1.000000" />
@@ -2167,7 +2167,7 @@
       <weaponForceMult value="1.000000" />
       <frequency value="30" />
       <swankness>SWANKNESS_5</swankness>
-      <maxNum value="12" />
+      <maxNum value="15" />
       <flags>FLAG_EXTRAS_STRONG FLAG_AVERAGE_CAR FLAG_RECESSED_TAILLIGHT_CORONAS FLAG_EXTRAS_REQUIRE FLAG_SPOILER_MOD_DOESNT_INCREASE_GRIP</flags>
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_BACK_PLATES</plateType>

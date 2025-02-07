@@ -1444,29 +1444,11 @@
     <Item>
       <modelName>kuruma</modelName>
       <colors>
-        <Item>
-          <indices content="char_array">
-            64 
-            64 
-            68 
-            156 
-          </indices>
-          <liveries>
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-          </liveries>
-        </Item>
-        <Item>
+        <Item> <!--Tarmac Black-->
           <indices content="char_array">
             1 
             1 
-            5 
+            2
             156 
           </indices>
           <liveries>
@@ -1480,25 +1462,7 @@
             <Item value="false" />
           </liveries>
         </Item>
-								<Item>
-          <indices content="char_array">
-            68 
-            68 
-            68 
-            156 
-          </indices>
-          <liveries>
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-          </liveries>
-        </Item>
-        <Item>
+        <Item> <!--Graphite Gray-->
           <indices content="char_array">
             2 
             2 
@@ -1516,25 +1480,7 @@
             <Item value="false" />
           </liveries>
         </Item>
-								<Item>
-          <indices content="char_array">
-            75 
-            75 
-            80 
-            156 
-          </indices>
-          <liveries>
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-          </liveries>
-        </Item>
-        <Item>
+        <Item> <!--Apex Silver-->
           <indices content="char_array">
             7 
             7 
@@ -1552,11 +1498,11 @@
             <Item value="false" />
           </liveries>
         </Item>
-								<Item>
+        <Item> <!--Wicked White-->
           <indices content="char_array">
-            77 
-            77 
-            80 
+            134
+            111 
+            111 
             156 
           </indices>
           <liveries>
@@ -1570,11 +1516,11 @@
             <Item value="false" />
           </liveries>
         </Item>
-        <Item>
+        <Item> <!--Electric Blue-->
           <indices content="char_array">
-            30 
-            30 
-            36 
+            64
+            64 
+            87
             156 
           </indices>
           <liveries>
@@ -1588,11 +1534,11 @@
             <Item value="false" />
           </liveries>
         </Item>
-        <Item>
+		<Item> <!--Cosmic Blue-->
           <indices content="char_array">
-            65 
-            65 
-            68 
+            75
+            75 
+            80
             156 
           </indices>
           <liveries>
@@ -1606,11 +1552,11 @@
             <Item value="false" />
           </liveries>
         </Item>
-        <Item>
+        <Item> <!--Rally Red-->
           <indices content="char_array">
-            34 
-            34 
+            33
             33 
+            30
             156 
           </indices>
           <liveries>
@@ -1624,46 +1570,10 @@
             <Item value="false" />
           </liveries>
         </Item>
-        <Item>
+        <Item> <!--Desert Sand-->
           <indices content="char_array">
-            52 
-            52 
-            51 
-            156 
-          </indices>
-          <liveries>
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-          </liveries>
-        </Item>
-								<Item>
-          <indices content="char_array">
-            71 
-            71 
-            80 
-            156 
-          </indices>
-          <liveries>
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-          </liveries>
-        </Item>
-        <Item>
-          <indices content="char_array">
-            37 
-            37 
+            93
+            93 
             106 
             156 
           </indices>
@@ -1678,11 +1588,29 @@
             <Item value="false" />
           </liveries>
         </Item>
-        <Item>
+        <Item> <!--Aqua-->
           <indices content="char_array">
-            111 
-            111 
-            111 
+            69
+            69 
+            68 
+            156 
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item> <!--Rotor Glow-->
+          <indices content="char_array">
+            36 
+            36 
+            38 
             156 
           </indices>
           <liveries>

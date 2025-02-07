@@ -432,8 +432,8 @@
         </Item>   
         <Item>
           <indices content="char_array">
-            5 
-            5
+            7
+            7
             134
             156
             29 
@@ -543,8 +543,8 @@
         </Item>      
 		<Item>
           <indices content="char_array">
-            37
-            37
+            93
+            93
             111
             156
             29 
@@ -1872,9 +1872,9 @@
           <indices content="char_array">
             111
             31
-            7
+            0
             0 
-	        22
+	        33
 	        156
           </indices>
           <liveries>
@@ -1892,7 +1892,7 @@
           <indices content="char_array">
             7	
             7
-            7
+            112
             0 
 	        22
 	        156
@@ -1932,7 +1932,7 @@
           <indices content="char_array">
             73
             73
-            7
+            74
             0 
 	        22
 	        156
@@ -1952,7 +1952,7 @@
           <indices content="char_array">
             62
             62
-            7
+            63
             0 
 	        22
 	        156
@@ -1970,9 +1970,9 @@
         </Item>
         <Item>
           <indices content="char_array">
-            111
-            111
-            7
+            134
+            134
+            0
             0 
 	        22
 	        156
@@ -1992,7 +1992,7 @@
           <indices content="char_array">
             107
             107
-            7
+            0
             0 
 	        22
 	        156

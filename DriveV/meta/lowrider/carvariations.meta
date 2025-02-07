@@ -44,102 +44,135 @@
     <Item>
       <modelName>voodoo</modelName>
       <colors>
-        <Item>
+        <Item> <!--Roman Red-->
           <indices content="char_array">
             28
+            134
+            0
             28
-            28
-            156
-												53
-												111
+			27
+			111
           </indices>
           <liveries/>
         </Item>
-        <Item>
+        <Item> <!--Shadow Gray-->
           <indices content="char_array">
-            10
-            10
+            2
+            2
             5
-            156
-												53
-												111
+            2
+			33
+			111
           </indices>
           <liveries/>
         </Item>
-        <Item>
+        <Item> <!--Jade Green-->
           <indices content="char_array">
-            49
-            49
-            49
-            156
-												53
-												111
+            69
+            69
+            60
+            69
+			69
+			111
           </indices>
           <liveries/>
         </Item>
-        <Item>
+        <Item> <!--Royal Blue-->
           <indices content="char_array">
             75
             75
-            62
-            156
-												53
-												111
+            80
+            75
+			75
+			111
           </indices>
           <liveries/>
         </Item>
-        <Item>
+        <Item> <!--Cascade Green-->
           <indices content="char_array">
-            68
-            68
-            68
-            156
-												53
-												111
+            78
+            78
+            60
+            78
+			78
+			111
           </indices>
           <liveries/>
         </Item>
-								<Item>
+		<Item> <!--Horizon Blue-->
           <indices content="char_array">
-            69
-            69
-            69
-            156
-												53
-												111
+            65
+            65
+            67
+            65
+			65
+			111
           </indices>
           <liveries/>
         </Item>
-        <Item>
+		<Item> <!--Sateen Silver-->
           <indices content="char_array">
-            111
-            111
-            111
-            156
-												53
-												111
+            7
+            7
+            134
+            7
+			7
+			111
           </indices>
           <liveries/>
         </Item>
-        <Item>
+        <Item> <!--Crocus Cream-->
           <indices content="char_array">
-            37
-            37
-            88
-            156
-												53
-												111
+            107
+            107
+            0
+            107
+			107
+			111
           </indices>
           <liveries/>
         </Item>
-								<Item>
+        <Item> <!--Fawn Beige-->
+          <indices content="char_array">
+            93
+            93
+            136
+            93
+			99
+			111
+          </indices>
+          <liveries/>
+        </Item>
+		<Item> <!--Suntan Copper-->
+          <indices content="char_array">
+            104
+            104
+            136
+            104
+			99
+			111
+          </indices>
+          <liveries/>
+        </Item>
+		<Item> <!--Tasco Turquoise-->
+          <indices content="char_array">
+            54
+            54
+            127
+            54
+			54
+			111
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
           <indices content="char_array">
             96
             97
             97
-            156
-												53
-												111
+            96
+			96
+			111
           </indices>
           <liveries/>
         </Item>    
@@ -200,8 +233,8 @@
         </Item>
 								<Item>
           <indices content="char_array">
-            37
-            37
+            93
+            93
             126
             0
           </indices>
@@ -241,6 +274,8 @@
             0
             0
             0
+			0
+			0
           </indices>
           <liveries>
             <Item value="false" />
@@ -259,6 +294,8 @@
             31
             28
             0
+			0
+			0
           </indices>
           <liveries>
             <Item value="false" />
@@ -277,6 +314,8 @@
             37
             37
             0
+			0
+			0
           </indices>
           <liveries>
             <Item value="false" />
@@ -295,7 +334,7 @@
             53
             70
             88 
-			48
+			53
 			156
           </indices>
           <liveries>
@@ -315,7 +354,7 @@
             73
             92
             88 
-			48
+			73
 			156
           </indices>
           <liveries>
@@ -788,9 +827,9 @@
         </Item>
 		<Item>
           <indices content="char_array">
-            25
+            7
             65
-            5
+            111
             156
             65
 			14

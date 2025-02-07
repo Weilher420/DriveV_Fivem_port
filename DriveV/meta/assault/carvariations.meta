@@ -381,7 +381,47 @@
     <Item>
       <modelName>jester3</modelName>
       <colors>
-        <Item>
+		<Item>
+          <indices content="char_array">
+            0
+            0
+            0
+            0
+            7
+            89
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item> <!--Rennaisance Red-->
+          <indices content="char_array">
+            29
+            29
+            0
+            0
+            2
+            89
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item> 
+		<Item> <!--Alpine Silver-->
           <indices content="char_array">
             7
             7
@@ -401,31 +441,11 @@
             <Item value="false" />
           </liveries>
         </Item>
-        <Item>
+		<Item> <!--Super White-->
           <indices content="char_array">
-            29
-            8
-            28
+            134
+            134
             0
-            7
-            89
-          </indices>
-          <liveries>
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-          </liveries>
-        </Item> 
-        <Item>
-          <indices content="char_array">
-            38
-            8
-            38
             0
             7
             89
@@ -441,12 +461,72 @@
             <Item value="false" />
           </liveries>
         </Item>
-        <Item>
+        <Item> <!--Baltic Blue-->
           <indices content="char_array">
-            50
-            8
+            51
+            51
+            69
+            0
+            7
+            89
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item> <!--Deep Jewel Green-->
+          <indices content="char_array">
+            49
+            49
             60
             0
+            99
+            89
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item> 
+        <Item> <!--Anthracite-->
+          <indices content="char_array">
+            2
+            2
+            5
+            0
+            7
+            89
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>  
+        <Item> <!--Royal Sapphire-->
+          <indices content="char_array">
+            81
+            81
+            71
+            0
             7
             89
           </indices>
@@ -461,11 +541,11 @@
             <Item value="false" />
           </liveries>
         </Item> 
-        <Item>
+        <Item> <!--Imperial Jade-->
           <indices content="char_array">
-            64
-            8
-            68
+            49
+            49
+            52
             0
             7
             89
@@ -480,87 +560,7 @@
             <Item value="false" />
             <Item value="false" />
           </liveries>
-        </Item>  
-        <Item>
-          <indices content="char_array">
-            70
-            8
-            74
-            0
-            7
-            89
-          </indices>
-          <liveries>
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-          </liveries>
-        </Item> 
-        <Item>
-          <indices content="char_array">
-            89
-            8
-            0
-            0
-            7
-            89
-          </indices>
-          <liveries>
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-          </liveries>
-        </Item>  
-        <Item>
-          <indices content="char_array">
-            111
-            8
-            134
-            0
-            7
-            89
-          </indices>
-          <liveries>
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-          </liveries>
-        </Item>  
-        <Item>
-          <indices content="char_array">
-            0
-            0
-            0
-            0
-            111
-            111
-          </indices>
-          <liveries>
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-          </liveries>
-        </Item>      
+        </Item>     
       </colors>
       <kits>
         <Item>300_jester3_modkit</Item>

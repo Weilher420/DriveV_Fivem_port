@@ -173,7 +173,7 @@
       <damageMapScale value="0.600000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
-      <steerWheelMult value="0.600000" />
+      <steerWheelMult value="0.900000" />
 	  <firstPersonSteerWheelMult value="0.30000" />
       <HDTextureDist value="5.000000" />
       <lodDistances content="float_array">
@@ -283,7 +283,7 @@
       <damageMapScale value="0.600000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
-      <steerWheelMult value="0.600000" />
+      <steerWheelMult value="0.900000" />
 	  <firstPersonSteerWheelMult value="0.30000" />
       <HDTextureDist value="5.000000" />
       <lodDistances content="float_array">
@@ -499,7 +499,7 @@
       <damageMapScale value="0.500000" />
       <damageOffsetScale value="0.100000" />
       <diffuseTint value="0x00FFFFFF" />
-      <steerWheelMult value="0.500000" />
+      <steerWheelMult value="0.900000" />
       <HDTextureDist value="5.000000" />
       <lodDistances content="float_array">
         10.000000
@@ -941,7 +941,7 @@
       <damageMapScale value="0.500000" />
       <damageOffsetScale value="0.100000" />
       <diffuseTint value="0xAA000000" />
-      <steerWheelMult value="0.6" />
+      <steerWheelMult value="0.9" />
       <HDTextureDist value="5.000000" />
       <lodDistances content="float_array">
         10.000000	
@@ -1049,7 +1049,7 @@
       <damageMapScale value="0.500000" />
       <damageOffsetScale value="0.100000" />
       <diffuseTint value="0x00FFFFFF" />
-      <steerWheelMult value="0.600000" />
+      <steerWheelMult value="0.900000" />
       <HDTextureDist value="5.000000" />
       <lodDistances content="float_array">
         15.000000
@@ -1157,7 +1157,7 @@
       <damageMapScale value="0.0100000" />
       <damageOffsetScale value="0.010000" />
       <diffuseTint value="0x00FFFFFF" />
-      <steerWheelMult value="0.500000" />
+      <steerWheelMult value="0.900000" />
       <HDTextureDist value="5.000000" />
       <lodDistances content="float_array">
         15.000000
@@ -1266,7 +1266,7 @@
       <damageMapScale value="0.500000" />
       <damageOffsetScale value="0.100000" />
       <diffuseTint value="0x00FFFFFF" />
-      <steerWheelMult value="0.500000" />
+      <steerWheelMult value="0.900000" />
       <HDTextureDist value="5.000000" />
       <lodDistances content="float_array">
         10.000000	
@@ -1371,10 +1371,10 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.500000" />
-      <damageOffsetScale value="0.100000" />
+      <damageMapScale value="0.600000" />
+      <damageOffsetScale value="0.900000" />
       <diffuseTint value="0x00FFFFFF" />
-      <steerWheelMult value="0.400000" />
+      <steerWheelMult value="1.000000" />
       <HDTextureDist value="5.000000" />
       <lodDistances content="float_array">
         15.000000
@@ -1482,7 +1482,7 @@
       <damageMapScale value="0.500000" />
       <damageOffsetScale value="0.100000" />
       <diffuseTint value="0x00FFFFFF" />
-      <steerWheelMult value="0.400000" />
+      <steerWheelMult value="0.900000" />
       <HDTextureDist value="5.000000" />
       <lodDistances content="float_array">
         15.000000
@@ -1590,7 +1590,7 @@
       <damageMapScale value="0.500000" />
       <damageOffsetScale value="0.100000" />
       <diffuseTint value="0x00FFFFFF" />
-      <steerWheelMult value="0.400000" />
+      <steerWheelMult value="0.900000" />
       <HDTextureDist value="5.000000" />
       <lodDistances content="float_array">
         15.000000
@@ -1698,7 +1698,7 @@
       <damageMapScale value="0.500000" />
       <damageOffsetScale value="0.100000" />
       <diffuseTint value="0x00FFFFFF" />
-      <steerWheelMult value="0.500000" />
+      <steerWheelMult value="0.900000" />
       <HDTextureDist value="5.000000" />
       <lodDistances content="float_array">
         10.000000
@@ -1806,7 +1806,7 @@
       <damageMapScale value="0.500000" />
       <damageOffsetScale value="0.100000" />
       <diffuseTint value="0x00FFFFFF" />
-      <steerWheelMult value="0.600000" />
+      <steerWheelMult value="0.900000" />
       <HDTextureDist value="5.000000" />
       <lodDistances content="float_array">
         15.000000
@@ -1915,7 +1915,7 @@
       <damageMapScale value="0.500000" />
       <damageOffsetScale value="0.100000" />
       <diffuseTint value="0x00FFFFFF" />
-      <steerWheelMult value="0.350000" />
+      <steerWheelMult value="0.950000" />
       <HDTextureDist value="5.000000" />
       <lodDistances content="float_array">
         15.000000
@@ -2022,7 +2022,7 @@
       <damageMapScale value="0.500000" />
       <damageOffsetScale value="0.100000" />
       <diffuseTint value="0x00FFFFFF" />
-      <steerWheelMult value="0.420000" />
+      <steerWheelMult value="0.660000" />
       <HDTextureDist value="5.000000" />
       <lodDistances content="float_array">
         15.000000
@@ -2130,7 +2130,7 @@
       <damageMapScale value="0.500000" />
       <damageOffsetScale value="0.100000" />
       <diffuseTint value="0x00FFFFFF" />
-      <steerWheelMult value="0.500000" />
+      <steerWheelMult value="0.900000" />
       <HDTextureDist value="5.000000" />
       <lodDistances content="float_array">
         10.000000	
@@ -2237,7 +2237,7 @@
       <damageMapScale value="0.600000" />
       <damageOffsetScale value="0.100000" />
       <diffuseTint value="0x00FFFFFF" />
-      <steerWheelMult value="0.500000" />
+      <steerWheelMult value="0.900000" />
       <HDTextureDist value="5.000000" />
       <lodDistances content="float_array">
         15.000000

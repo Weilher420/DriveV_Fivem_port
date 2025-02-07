@@ -80,7 +80,7 @@
       <weaponForceMult value="1.000000" />
       <frequency value="10" />
       <swankness>SWANKNESS_4</swankness>
-      <maxNum value="2" />
+      <maxNum value="23" />
       <flags>FLAG_AVERAGE_CAR FLAG_HAS_INTERIOR_EXTRAS</flags>
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_FRONT_AND_BACK_PLATES</plateType>

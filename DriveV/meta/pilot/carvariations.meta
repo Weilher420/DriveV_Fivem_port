@@ -148,9 +148,9 @@
       <colors>
         <Item> <!-- Nassau Blue -->
           <indices content="char_array">
-            64
-            64
-            70
+            73
+            73
+            87
             156 
           </indices>
           <liveries>
@@ -202,9 +202,9 @@
         </Item>
         <Item>
           <indices content="char_array">
-            4
-            4
-            111
+            119
+            119
+            134
             156 
           </indices>
           <liveries>
@@ -274,8 +274,8 @@
         </Item>
         <Item> <!-- Sunfire Yellow -->
           <indices content="char_array">
-            126
-            126
+            160
+            160
             0
             156 
           </indices>
@@ -294,7 +294,7 @@
           <indices content="char_array">
             63
             63 
-            5
+            65
             156 
           </indices>
           <liveries>
@@ -310,9 +310,9 @@
         </Item>
 		<Item> <!-- Saddle Tan -->
           <indices content="char_array">
-            97
-            97 
-            93
+            98
+            98 
+            99
             156 
           </indices>
           <liveries>
@@ -332,6 +332,60 @@
             49 
             52 
             156 
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+		<Item> <!-- Laguna Blue -->
+          <indices content="char_array">
+            61
+            61 
+            77
+            156 
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+		<Item> <!-- Mosport Green -->
+          <indices content="char_array">
+            78
+            78
+            60
+            156 
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+		<Item> <!-- Trophy Blue -->
+          <indices content="char_array">
+            74
+            74
+            65 
+            156
           </indices>
           <liveries>
             <Item value="false" />

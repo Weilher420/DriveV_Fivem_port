@@ -472,8 +472,8 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="1.600000" />
-      <damageOffsetScale value="1.900000" />
+      <damageMapScale value="0.600000" />
+      <damageOffsetScale value="0.900000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="1.000000" />
       <HDTextureDist value="5.000000" />
@@ -487,7 +487,7 @@
       </lodDistances>
       <minSeatHeight value="1.182" />
       <identicalModelSpawnDistance value="20" />
-      <maxNumOfSameColor value="10" />
+      <maxNumOfSameColor value="3" />
       <defaultBodyHealth value="1000.000000" />
       <pretendOccupantsScale value="1.000000" />
       <visibleSpawnDistScale value="1.000000" />
@@ -495,8 +495,8 @@
       <weaponForceMult value="1.000000" />
       <frequency value="60" />
       <swankness>SWANKNESS_1</swankness>
-      <maxNum value="5" />
-      <flags>FLAG_BIG FLAG_CAN_HONK_WHEN_FLEEING FLAG_AVOID_TURNS FLAG_EXTRAS_STRONG FLAG_IS_BULKY FLAG_BLOCK_FROM_ATTRACTOR_SCENARIO FLAG_ATTACH_TRAILER_ON_HIGHWAY FLAG_HAS_EXTRA_SHUFFLE_SEAT_ON_VEHICLE FLAG_DONT_HOLD_LOW_GEARS_WHEN_ENGINE_UNDER_LOAD FLAG_USE_STRICTER_EXIT_COLLISION_TESTS</flags>
+      <maxNum value="10" />
+      <flags>FLAG_BIG FLAG_CAN_HONK_WHEN_FLEEING FLAG_AVOID_TURNS FLAG_EXTRAS_STRONG FLAG_IS_BULKY FLAG_BLOCK_FROM_ATTRACTOR_SCENARIO FLAG_ATTACH_TRAILER_ON_HIGHWAY FLAG_USE_STRICTER_EXIT_COLLISION_TESTS FLAG_HAS_EXTRA_SHUFFLE_SEAT_ON_VEHICLE FLAG_DONT_HOLD_LOW_GEARS_WHEN_ENGINE_UNDER_LOAD</flags>
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_FRONT_AND_BACK_PLATES</plateType>
       <dashboardType>VDT_TRUCK</dashboardType>
@@ -510,8 +510,7 @@
         <Item>tanker</Item>
         <Item>trailerlogs</Item>
         <Item>tr2</Item>
-        <Item>trflat</Item>
-        <Item>trailerlarge</Item>        
+        <Item>trflat</Item>        
       </trailers>
       <additionalTrailers>
         <Item>armytanker</Item>
@@ -1424,7 +1423,7 @@
       <damageMapScale value="0.600000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
-      <steerWheelMult value="0.400000" />
+      <steerWheelMult value="0.900000" />
       <HDTextureDist value="5.000000" />
       <lodDistances content="float_array">
         25.000000

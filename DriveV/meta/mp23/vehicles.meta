@@ -195,7 +195,7 @@
       </lodDistances>
       <minSeatHeight value="0.844" />
       <identicalModelSpawnDistance value="20" />
-      <maxNumOfSameColor value="10" />
+      <maxNumOfSameColor value="5" />
       <defaultBodyHealth value="1000.000000" />
       <pretendOccupantsScale value="1.000000" />
       <visibleSpawnDistScale value="1.000000" />
@@ -428,7 +428,7 @@
       <frequency value="25" />
       <swankness>SWANKNESS_2</swankness>
       <maxNum value="21" />
-      <flags>FLAG_NO_BROKEN_DOWN_SCENARIO FLAG_RECESSED_TAILLIGHT_CORONAS</flags>
+      <flags>FLAG_POOR_CAR FLAG_NO_BROKEN_DOWN_SCENARIO FLAG_RECESSED_TAILLIGHT_CORONAS</flags>
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_BACK_PLATES</plateType>
       <dashboardType>VDT_DUKES</dashboardType>
@@ -532,7 +532,7 @@
       </lodDistances>
       <minSeatHeight value="0.929" />
       <identicalModelSpawnDistance value="20" />
-      <maxNumOfSameColor value="2" />
+      <maxNumOfSameColor value="1" />
       <defaultBodyHealth value="1000.000000" />
       <pretendOccupantsScale value="1.000000" />
       <visibleSpawnDistScale value="1.000000" />
@@ -2380,8 +2380,8 @@
         500.000000
       </lodDistances>
       <minSeatHeight value="0.832" />
-      <identicalModelSpawnDistance value="40" />
-      <maxNumOfSameColor value="2" />
+      <identicalModelSpawnDistance value="100" />
+      <maxNumOfSameColor value="1" />
       <defaultBodyHealth value="1000.000000" />
       <pretendOccupantsScale value="1.000000" />
       <visibleSpawnDistScale value="1.000000" />
@@ -2389,13 +2389,13 @@
       <weaponForceMult value="1.000000" />
       <frequency value="50" />
       <swankness>SWANKNESS_3</swankness>
-      <maxNum value="25" />
+      <maxNum value="20" />
 	  <flags>FLAG_SPORTS FLAG_RICH_CAR FLAG_NO_BROKEN_DOWN_SCENARIO FLAG_RECESSED_TAILLIGHT_CORONAS</flags>
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_BACK_PLATES</plateType>
       <dashboardType>VDT_RACE</dashboardType>
       <vehicleClass>VC_MUSCLE</vehicleClass>
-      <wheelType>VWT_HIEND</wheelType>
+      <wheelType>VWT_MUSCLE</wheelType>
       <trailers />
       <additionalTrailers />
       <drivers />

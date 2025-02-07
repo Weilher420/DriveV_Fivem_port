@@ -497,7 +497,7 @@
             <Item value="false" />
           </liveries>
         </Item>
-								<Item> <!-- Infrared / Red Jewel Tintcoat (exaggerated/fictionalized) -->
+		<Item> <!-- Infrared / Red Jewel Tintcoat (exaggerated/fictionalized) -->
           <indices content="char_array">
             34
             34
@@ -517,7 +517,7 @@
             <Item value="false" />
           </liveries>
         </Item>
-								<Item> <!-- Garnet Metallic -->
+		<Item> <!-- Garnet Metallic -->
           <indices content="char_array">
             142
             142
@@ -537,7 +537,7 @@
             <Item value="false" />
           </liveries>
         </Item>
-								<Item> <!-- Velocity Red -->
+		<Item> <!-- Velocity Red -->
           <indices content="char_array">
             28
             28
@@ -557,7 +557,7 @@
             <Item value="false" />
           </liveries>
         </Item>
-								<Item> <!-- Royal Spice Metallic -->
+		<Item> <!-- Royal Spice Metallic -->
           <indices content="char_array">
             36
             36
@@ -577,7 +577,7 @@
             <Item value="false" />
           </liveries>
         </Item>
-								<Item>
+		<Item>
           <indices content="char_array">
             7
             7
@@ -597,7 +597,7 @@
             <Item value="false" />
           </liveries>
         </Item>
-								<Item> <!-- Phantom Gray -->
+		<Item> <!-- Phantom Gray -->
           <indices content="char_array">
             2
             2
@@ -617,7 +617,7 @@
             <Item value="false" />
           </liveries>
         </Item>
-								<Item> <!-- Cocoa Bronze -->
+		<Item> <!-- Cocoa Bronze -->
           <indices content="char_array">
             94
             94
@@ -637,7 +637,7 @@
             <Item value="false" />
           </liveries>
         </Item>
-								<Item> <!-- Evergreen Metallic -->
+		<Item> <!-- Evergreen Metallic -->
           <indices content="char_array">
             49
             49
@@ -657,7 +657,7 @@
             <Item value="false" />
           </liveries>
         </Item>
-								<Item> <!-- Dark Adriatic Blue -->
+		<Item> <!-- Dark Adriatic Blue -->
           <indices content="char_array">
             61
             61
@@ -677,7 +677,7 @@
             <Item value="false" />
           </liveries>
         </Item>
-								<Item> <!-- Vector Blue -->
+		<Item> <!-- Vector Blue -->
           <indices content="char_array">
             64
             64
@@ -697,7 +697,7 @@
             <Item value="false" />
           </liveries>
         </Item>
-		      <Item> <!-- Deep Amethyst -->
+		<Item> <!-- Deep Amethyst -->
           <indices content="char_array">
             72
             72
