@@ -1,5 +1,7 @@
 # Drive V (FiveM port)
 
+Fork updated by JemmaSinclair for the mp25, mp25_2 and gunrunning DLCs.
+
 ## Dependencies
 [InversePower](https://github.com/Weilher420/InversePower_FiveM_Port) (Optional, but strongly recomended).
 
