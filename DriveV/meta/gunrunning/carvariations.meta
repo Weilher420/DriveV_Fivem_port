@@ -687,7 +687,7 @@
             28
             28
             0 
-            112
+            0
             93
             93
           </indices>
@@ -707,7 +707,7 @@
             0
             0
             0 
-            112
+            0
             93
             93
           </indices>
@@ -722,12 +722,12 @@
             <Item value="false" />
           </liveries>
         </Item>
-        <Item>
+        <Item> <!--Giallo-->
           <indices content="char_array">
             89
             89
             0 
-            112
+            0
             93
             93
           </indices>
@@ -744,10 +744,10 @@
         </Item>
         <Item>
           <indices content="char_array">
-            111
-            111
-            111 
-            112
+            134
+            134
+            134 
+            0
             93
             93
           </indices>
@@ -762,14 +762,94 @@
             <Item value="false" />
           </liveries>
         </Item>
-        <Item>
+        <Item> <!--Oro Chiaro Metallizzato-->
+          <indices content="char_array">
+            99
+            99
+            107
+            0
+            93
+            93
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item> <!--Rosso Metallizzato-->
+          <indices content="char_array">
+            34
+            34
+            34 
+            0
+            93
+            93
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item> <!--Blue Sera Metallizzato-->
+          <indices content="char_array">
+            62
+            62		
+            69
+            0
+            99
+            90	
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>	
+        <Item> <!--Azzuro Metallizzato-->
           <indices content="char_array">
             63
             63
-            0 
-            112
-            93
-            93
+            157
+            0
+            99
+            90	
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>	
+	    <Item> <!--Grigio Metallizzato-->
+          <indices content="char_array">
+            2
+            2
+            5
+            0
+            99
+            90
           </indices>
           <liveries>
             <Item value="false" />
@@ -782,54 +862,14 @@
             <Item value="false" />
           </liveries>
         </Item>
-        <Item>
+		<Item> <!--Marrone Metallizzato-->
           <indices content="char_array">
-            62
-            62
-            62 
-            112
-            93
-            93
-          </indices>
-          <liveries>
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-          </liveries>
-        </Item>
-        <Item>
-          <indices content="char_array">
-            50
-            50
-            50 
-            112
-            93
-            93
-          </indices>
-          <liveries>
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-          </liveries>
-        </Item>
-        <Item>
-          <indices content="char_array">
-            136
-            136
-            0 
-            112
-            93
-            93
+            95
+            95
+            107
+            0
+            99
+            90
           </indices>
           <liveries>
             <Item value="false" />
