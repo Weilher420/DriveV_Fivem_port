@@ -1,5 +1,8 @@
 # Drive V (FiveM port)
 
+THIS REPO IS NO LONGER MAINTENED [UPDATED VERSION HERE](https://github.com/JemmaSinclair/DriveV_Fivem_port)
+
+
 ## Dependencies
 [InversePower](https://github.com/Weilher420/InversePower_FiveM_Port) (Optional, but strongly recomended).
 
@@ -11,3 +14,4 @@
 
 ## Based on : <br /> ##
 [Drive V](https://gta5-mods.com/vehicles/drive-v-realistic-driving-car-handling) by [PermissionToLand](https://gta5-mods.com/users/PermissionToLand) <br/>
+
